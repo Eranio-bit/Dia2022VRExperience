@@ -1,0 +1,40 @@
+# FILE:Spatiu01.obj
+newmtl GDLM1_SHADOW_MATERIAL
+Ka 0.228885 0.228885 0.228885
+Kd 0.228885 0.228885 0.228885
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Paint_-_Ivory_Black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.356402 0.356402 0.36
+illum 2
+Ns 0.72
+newmtl Paint_-_Sand_Beige
+Ka 0.769529 0.725765 0.623647
+Kd 0.339255 0.319961 0.274941
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Paint_-_Alizarin_Carmine
+Ka 0.765882 0.0656471 0.240706
+Kd 0.337647 0.0289412 0.106118
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Concrete_-_02
+Ka 0.408392 0.408392 0.408392
+Kd 0.498039 0.498039 0.498039
+Ks 0.171294 0.179451 0.201882
+illum 2
+Ns 11
+map_Ka Spatiu01_Textures\Concrete - 02 -opt.jpg
+map_Kd Spatiu01_Textures\Concrete - 02 -opt.jpg
+map_Ks Spatiu01_Textures\Concrete - 02 -opt.jpg
+newmtl GDLM6_Opaque
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 0
