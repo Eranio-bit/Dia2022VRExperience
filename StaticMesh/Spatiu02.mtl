@@ -1,0 +1,70 @@
+# FILE:Spatiu02.obj
+newmtl GDLM1_SHADOW_MATERIAL
+Ka 0.228885 0.228885 0.228885
+Kd 0.228885 0.228885 0.228885
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Concrete_-_02
+Ka 0.408392 0.408392 0.408392
+Kd 0.498039 0.498039 0.498039
+Ks 0.171294 0.179451 0.201882
+illum 2
+Ns 11
+map_Ka Spatiu02_Textures\Concrete - 02 -opt.jpg
+map_Kd Spatiu02_Textures\Concrete - 02 -opt.jpg
+map_Ks Spatiu02_Textures\Concrete - 02 -opt.jpg
+newmtl Paint_-_Ivory_Black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.356402 0.356402 0.36
+illum 2
+Ns 0.72
+newmtl Paint_-_Sand_Beige
+Ka 0.769529 0.725765 0.623647
+Kd 0.339255 0.319961 0.274941
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl Paint_-_Alizarin_Carmine
+Ka 0.765882 0.0656471 0.240706
+Kd 0.337647 0.0289412 0.106118
+Ks 0.0990005 0.0990005 0.1
+illum 2
+Ns 0.72
+newmtl GDLM6_Opaque
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Paint_-_Glossy_White
+Ka 0.88 0.88 0.88
+Kd 0.3 0.3 0.3
+Ks 0.683104 0.683104 0.69
+illum 2
+Ns 38.56
+map_Ka Spatiu02_Textures\Tiles - Anthracite 60x60 r.jpg
+map_Kd Spatiu02_Textures\Tiles - Anthracite 60x60 r.jpg
+map_Ks Spatiu02_Textures\Tiles - Anthracite 60x60 r.jpg
+newmtl PEN_MATERIAL92
+Ka 0.671138 0.500099 0.500099
+Kd 0.671138 0.500099 0.500099
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Water_-_Pond
+Ka 0.337255 0.654902 0.478431
+Kd 0.212471 0.412588 0.301412
+Ks 0.663529 0.525176 0.338824
+illum 2
+Ns 0.64
+map_Ka Spatiu02_Textures\Water - Pond -opt.jpg
+map_Kd Spatiu02_Textures\Water - Pond -opt.jpg
+map_Ks Spatiu02_Textures\Water - Pond -opt.jpg
+newmtl Metal_-_Nickel
+Ka 0.557255 0.538039 0.494118
+Kd 0.398039 0.384314 0.352941
+Ks 0.651176 0.625765 0.571765
+illum 2
+Ns 5.2
