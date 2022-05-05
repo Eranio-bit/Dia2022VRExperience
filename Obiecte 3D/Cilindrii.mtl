@@ -1,0 +1,58 @@
+# FILE:Cilindrii.obj
+newmtl GDLM1_SHADOW_MATERIAL
+Ka 0.228885 0.228885 0.228885
+Kd 0.228885 0.228885 0.228885
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Paint_-_Light_Gray
+Ka 0.467765 0.467765 0.467765
+Kd 0.540235 0.540235 0.540235
+Ks 0.366667 0.366667 0.366667
+illum 2
+Ns 11
+newmtl GDLM3_Opaque
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Paint_-_Glossy_White
+Ka 0.86 0.86 0.86
+Kd 0.81 0.81 0.81
+Ks 0.0892941 0.0892941 0.09
+illum 2
+Ns 0
+newmtl Wood_-_Walnut_Horizontal
+Ka 0.25098 0.12549 0
+Kd 0.396549 0.198275 0
+Ks 0.31698 0.203608 0.141137
+illum 2
+Ns 0
+map_Ka Cilindrii_Textures\Wood Grain Walnut Alpha GS.jpg
+map_Kd Cilindrii_Textures\Wood Grain Walnut Alpha GS.jpg
+map_Ks Cilindrii_Textures\Wood Grain Walnut Alpha GS.jpg
+newmtl Grass_-_Green
+Ka 0 0.193255 0
+Kd 0 0.183216 0
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka Cilindrii_Textures\Grass 06 GS.jpg
+map_Kd Cilindrii_Textures\Grass 06 GS.jpg
+map_Ks Cilindrii_Textures\Grass 06 GS.jpg
+newmtl Metal_-_Iron
+Ka 0.243016 0.252075 0.271919
+Kd 0.198562 0.205964 0.222178
+Ks 0.24902 0.24902 0.24902
+illum 2
+Ns 0
+map_Ka Cilindrii_Textures\Lead GS.jpg
+map_Kd Cilindrii_Textures\Lead GS.jpg
+map_Ks Cilindrii_Textures\Lead GS.jpg
+newmtl Paint_-_Anthracite
+Ka 0.1454 0.1454 0.1454
+Kd 0.1454 0.1454 0.1454
+Ks 0.0913024 0.0913024 0.0913024
+illum 2
+Ns 4.2

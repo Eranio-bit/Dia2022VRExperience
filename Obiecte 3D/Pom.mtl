@@ -1,0 +1,31 @@
+# FILE:Pom.obj
+newmtl GDLM1_SHADOW_MATERIAL
+Ka 0.228885 0.228885 0.228885
+Kd 0.228885 0.228885 0.228885
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Wood_-_Walnut_Horizontal
+Ka 0.273255 0.228588 0.194431
+Kd 0.252863 0.211529 0.179922
+Ks 0.152 0.152 0.152
+illum 2
+Ns 0
+map_Ka Pom_Textures\Wood - Walnut Horizontal -opt.jpg
+map_Kd Pom_Textures\Wood - Walnut Horizontal -opt.jpg
+map_Ks Pom_Textures\Wood - Walnut Horizontal -opt.jpg
+newmtl Paint_-_Glossy_White
+Ka 0.88 0.88 0.88
+Kd 0.3 0.3 0.3
+Ks 0.683104 0.683104 0.69
+illum 2
+Ns 38.56
+newmtl Grass_-_Green
+Ka 0.259686 0.510314 0.138902
+Kd 0.246196 0.483804 0.131686
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka Pom_Textures\Grass - Green cb -opt.jpg
+map_Kd Pom_Textures\Grass - Green cb -opt.jpg
+map_Ks Pom_Textures\Grass - Green cb -opt.jpg
