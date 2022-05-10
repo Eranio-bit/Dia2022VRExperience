@@ -1,0 +1,109 @@
+# FILE:Umbrela.obj
+newmtl GDLM1_SHADOW_MATERIAL
+Ka 0.228885 0.228885 0.228885
+Kd 0.228885 0.228885 0.228885
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Paint_-_Titanium_White
+Ka 0.8 0.8 0.8
+Kd 0.89 0.89 0.89
+Ks 0.0891005 0.0891005 0.09
+illum 2
+Ns 2.2
+newmtl GDLM3_Opaque
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 0
+newmtl Paint_-_Glossy_White
+Ka 0.86 0.86 0.86
+Kd 0.81 0.81 0.81
+Ks 0.0892941 0.0892941 0.09
+illum 2
+Ns 0
+newmtl GDLM5__13___Default
+Ka 0.596471 0.560784 0.44098
+Kd 0.734118 0.690196 0.542745
+Ks 0.808235 0.808235 0.808235
+illum 2
+Ns 72
+newmtl Wood_-_Walnut_Horizontal
+Ka 0.25098 0.12549 0
+Kd 0.396549 0.198275 0
+Ks 0.31698 0.203608 0.141137
+illum 2
+Ns 0
+map_Ka Umbrela_Textures\Wood Grain Walnut Alpha GS.jpg
+map_Kd Umbrela_Textures\Wood Grain Walnut Alpha GS.jpg
+map_Ks Umbrela_Textures\Wood Grain Walnut Alpha GS.jpg
+newmtl Grass_-_Green
+Ka 0 0.193255 0
+Kd 0 0.183216 0
+Ks 0 0 0
+illum 2
+Ns 0
+map_Ka Umbrela_Textures\Grass 06 GS.jpg
+map_Kd Umbrela_Textures\Grass 06 GS.jpg
+map_Ks Umbrela_Textures\Grass 06 GS.jpg
+newmtl GDLM8_Material
+Ka 0.489412 0.489412 0.489412
+Kd 0.602353 0.602353 0.602353
+Ks 0.677647 0.677647 0.677647
+illum 2
+Ns 20
+newmtl GDLM9_Mat_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.0229412 0.0229412 0.0229412
+illum 2
+Ns 51
+newmtl GDLM10_Mat_3
+Ka 0 0 0
+Kd 0.63 0.355765 0
+Ks 1 1 1
+illum 2
+Ns 95
+newmtl GDLM11_Arch_056_053_12
+Ka 0 0 0
+Kd 0.0192157 0.0192157 0.0192157
+Ks 0.0730588 0.0730588 0.0730588
+illum 2
+Ns 90
+newmtl GDLM12_Arch_056_053_13
+Ka 0 0 0
+Kd 0.860706 0.860706 0.860706
+Ks 0.0730588 0.0730588 0.0730588
+illum 2
+Ns 90
+newmtl Paint_-_Light_Gray
+Ka 0.467765 0.467765 0.467765
+Kd 0.540235 0.540235 0.540235
+Ks 0.366667 0.366667 0.366667
+illum 2
+Ns 11
+newmtl Stucco_-_White_Rough
+Ka 0.75 0.75 0.75
+Kd 0.95 0.95 0.95
+Ks 0.0793725 0.0774902 0.0759216
+illum 2
+Ns 0
+map_Ka Umbrela_Textures\Textured Render White 01 GS.jpg
+map_Kd Umbrela_Textures\Textured Render White 01 GS.jpg
+map_Ks Umbrela_Textures\Textured Render White 01 GS.jpg
+newmtl Paint_-_Anthracite
+Ka 0.1454 0.1454 0.1454
+Kd 0.1454 0.1454 0.1454
+Ks 0.0913024 0.0913024 0.0913024
+illum 2
+Ns 4.2
+newmtl Metal_-_Iron
+Ka 0.243016 0.252075 0.271919
+Kd 0.198562 0.205964 0.222178
+Ks 0.24902 0.24902 0.24902
+illum 2
+Ns 0
+map_Ka Umbrela_Textures\Lead GS.jpg
+map_Kd Umbrela_Textures\Lead GS.jpg
+map_Ks Umbrela_Textures\Lead GS.jpg
